@@ -1,7 +1,4 @@
-# SPPU TE Computer Engineering (2024 Pattern) - Artificial Intelligence Lab
-
-Complete Python implementations, sample outputs, and basic viva preparation for all 7 Artificial Intelligence Laboratory experiments under Savitribai Phule Pune University (SPPU) TE Computer Engineering (2024 Pattern).
-
+# AI CODES
 ## Repository Structure
 
 | File | Experiment | Algorithm / Concept |
